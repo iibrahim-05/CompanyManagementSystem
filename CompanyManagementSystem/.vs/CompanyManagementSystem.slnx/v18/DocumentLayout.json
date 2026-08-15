@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CompanyRepo\\CompanyManagementSystem\\CompanyManagementSystem\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\views\\departments\\_departmentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\views\\departments\\_departmentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|c:\\users\\3bood\\onedrive\\desktop\\company\\companymanagementsystem\\companymanagementsystem\\companymanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098A267D-EAAA-869F-A715-9404EEEE86C6}|CompanyManagementSystem\\CompanyManagementSystem.csproj|solutionrelative:companymanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CompanyManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-15T14:20:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Program.cs",
+              "RelativeToolTip": "CompanyManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:19:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "CompanyManagementSystem\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-15T14:09:00.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "CompanyManagementSystem\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-15T14:08:59.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "CompanyManagementSystem\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-15T14:08:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_DepartmentForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\_DepartmentForm.cshtml",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Views\\Departments\\_DepartmentForm.cshtml",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Views\\Departments\\_DepartmentForm.cshtml",
+              "RelativeToolTip": "CompanyManagementSystem\\Views\\Departments\\_DepartmentForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-15T14:08:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyManagementSystem\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:08:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CompanyManagementSystem\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\3bood\\OneDrive\\Desktop\\Company\\CompanyManagementSystem\\CompanyManagementSystem\\CompanyManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CompanyManagementSystem\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:07:25.3Z",
+              "EditorCaption": ""
             }
           ]
         }
